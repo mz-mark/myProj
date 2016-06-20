@@ -1,2 +1,3 @@
 use git to manage file
-and thos file was updated
+and this file was updated
+third commit
