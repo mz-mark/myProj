@@ -1,1 +1,2 @@
-这个一个测试的文件。主要玩玩git的使用的
+use git to manage file
+and thos file was updated
